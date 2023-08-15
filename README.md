@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Mahi</h1></summary>
+   <summary><h1 style="display: inline-block">Hi 👋🏼, I'm Mahi</h1></summary>
   </ul>
 </div>
 
