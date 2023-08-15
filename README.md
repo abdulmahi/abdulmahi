@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Kingshuk</h1></summary>
+    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Mahi</h1></summary>
   </ul>
 </div>
 
@@ -36,7 +36,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kingshukkundu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMahi&theme=dark&hide_border=false" /> 
 </p>
  <br></br>
 <!--- stats (end) -->
@@ -55,7 +55,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=kingshukkundu&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AHMahi&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
