@@ -22,11 +22,11 @@
 
 <!--Intro start-->
 
-- 🗂️ Check out my [Porfolio](https://kingshuk.me/)
+- 🗂️ Check out my [Porfolio]([https://kingshuk.me/](https://ahmahi.github.io/))
 
-- 🌱 Currently working at **CVS Health**
+- 🌱 Currently studying at **Swinburne University of Technology**
 
-- 📫 Say hi: **contact@kingshuk.me**
+- 📫 Say hi: **abdulhamidmahi1971@gmail.com**
 
 
  <br></br>
