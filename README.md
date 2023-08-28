@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Feel free to take a peak at my work!</h2></summary>
+    <summary><h2 style="display: inline-block">Feel free to take a peek at my work!</h2></summary>
   </ul>
 </div>
 
