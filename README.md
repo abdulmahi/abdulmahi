@@ -69,7 +69,6 @@
 <img alt="React" src="https://img.shields.io/badge/Reactjs-%23092E20.svg?style=for-the-badge&logo=react&logoColor=white">
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=white">
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white">
 <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-%234DB6AC.svg?style=for-the-badge&logo=vuetify&logoColor=white">
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
