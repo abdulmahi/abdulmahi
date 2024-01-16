@@ -22,7 +22,7 @@
 
 <!--Intro start-->
 
-- 🗂️ Check out my [Porfolio]([https://kingshuk.me/](https://ahmahi.github.io/))
+- 🗂️ Check out my portfolio https://ahmahi.github.io/
 
 - 🌱 Recently Graduated from **Swinburne University of Technology**
 
