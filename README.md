@@ -24,7 +24,7 @@
 
 - 🗂️ Check out my [Porfolio]([https://kingshuk.me/](https://ahmahi.github.io/))
 
-- 🌱 Currently studying at **Swinburne University of Technology**
+- 🌱 Recently Graduated from **Swinburne University of Technology**
 
 - 📫 Say hi: **abdulhamidmahi1971@gmail.com**
 
