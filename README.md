@@ -24,7 +24,7 @@
 
 - 🗂️ Check out my portfolio https://ahmahi.github.io/
 
-- 🎓 Graduated from **Swinburne University of Technology**
+- 🎓 Bachelor's from **Swinburne University of Technology** in Computer Science
 
 - 🎨 Discover my artistic side on Dribbble https://dribbble.com/AHMahi &  Behance https://www.behance.net/abdulhamidmahi1
 
