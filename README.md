@@ -19,9 +19,9 @@
 - 🗂️ Check out my portfolio: **https://ahmahi.github.io/**
 - 🎓 Bachelor's from **Swinburne University of Technology** in Computer Science
 - 💼 Currently working as a Business Intelligence Developer at Clevertronics 
-- Freelancing as a UI designer & UX researcher
 - 💬 Ask me anything about Data Visualisation & Power BI: **abdulhamidmah2000@gmail.com**
 - 🎨 Discover my artistic side on **[Dribbble](https://dribbble.com/AHMahi)** & **[Behance](https://www.behance.net/abdulhamidmahi1)**
+- 🧑‍💻 Freelancing as a UI designer & UX researcher
 
 <br>
 
