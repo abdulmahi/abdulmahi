@@ -1,110 +1,35 @@
-<div id="user-content-toc">
-  <ul align="center">
-   <summary><h1 style="display: inline-block">Hi 👋🏼, I'm Mahi</h1></summary>
-  </ul>
-</div>
+# Hi 👋🏼, I'm Mahi
 
-<!--horizontal divider(gradiant)-->
-<img src="resources/divider.gif">
-
-<!--- snake -->
 <div align="center">
-  <img  src=resources/grid-snake.svg
-       alt="snake" /></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Feel free to take a peek at my work!</h2></summary>
-  </ul>
+<div align="center">
+  <img src="https://github.com/AHMahi/AHMahi/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
-<!--Intro start-->
+<div align="center">
+  <h2>Feel free to take a peek at my work!</h2>
+</div>
 
-- 🗂️ Check out my portfolio https://ahmahi.github.io/
+## About Me
 
+- 🗂️ Check out my portfolio: **https://ahmahi.github.io/**
 - 🎓 Bachelor's from **Swinburne University of Technology** in Computer Science
-
-- 🎨 Discover my artistic side on Dribbble https://dribbble.com/AHMahi &  Behance https://www.behance.net/abdulhamidmahi1
-
+- 🎨 Discover my artistic side on **[Dribbble](https://dribbble.com/AHMahi)** & **[Behance](https://www.behance.net/abdulhamidmahi1)**
 - 📫 Say hi: **abdulhamidmah2000@gmail.com**
 
+<br>
 
- <br></br>
+## 📊 GitHub Stats
 
-<!--Intro end-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMahi&theme=dark&hide_border=false" /> 
-</p>
- <br></br>
-<!--- stats (end) -->
+<br>
 
-<!--h1 without bottom border-->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Stack</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f5f5f5;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background-color: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        h2 {
-            text-align: center;
-            color: #333;
-            margin-bottom: 30px;
-        }
-        .skills-section {
-            margin-bottom: 40px;
-        }
-        .skills-section h3 {
-            color: #555;
-            border-bottom: 2px solid #007acc;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
-        .badges {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            align-items: center;
-        }
-        .badges img {
-            height: 28px;
-            transition: transform 0.2s;
-        }
-        .badges img:hover {
-            transform: scale(1.1);
-        }
-        .certifications {
-            background-color: #f8f9fa;
-            padding: 20px;
-            border-left: 4px solid #28a745;
-            margin-top: 20px;
-        }
-        .certifications h3 {
-            border: none;
-            color: #28a745;
-            margin-top: 0;
-        }
-    </style>
-
-    ## Tech Stack 👨🏻‍💻
+## Tech Stack 👨🏻‍💻
 
 ### 📊 Data Analytics & Databases
 <p align="center">
@@ -199,12 +124,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=AHMahi&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
