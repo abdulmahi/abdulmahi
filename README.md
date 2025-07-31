@@ -24,9 +24,9 @@
 
 - 🗂️ Check out my portfolio https://ahmahi.github.io/
 
-- 🌱 Recently Graduated from **Swinburne University of Technology**
+- 🎓 Graduated from **Swinburne University of Technology**
 
-- 🎨 Discover my artistic side on Dribbble https://dribbble.com/AHMahi
+- 🎨 Discover my artistic side on Dribbble https://dribbble.com/AHMahi &  Behance https://www.behance.net/abdulhamidmahi1
 
 - 📫 Say hi: **abdulhamidmah2000@gmail.com**
 
