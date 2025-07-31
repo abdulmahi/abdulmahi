@@ -80,6 +80,10 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+## 🚀 Tech & Data Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sql,powerbi,aws,azure,jupyter,airflow,scikitlearn,docker)](https://skillicons.dev)
+
 
 <!--profile visit count-->
 <div align="center">
