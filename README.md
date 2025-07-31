@@ -18,7 +18,8 @@
 
 - 🗂️ Check out my portfolio: **https://ahmahi.github.io/**
 - 🎓 Bachelor's from **Swinburne University of Technology** in Computer Science
-- 🎓 Currently working as a BI Developer at Clevertronics and Freelancing as a UI designer & UX researcher
+- 💼 Currently working as a Business Intelligence Developer at Clevertronics 
+- Freelancing as a UI designer & UX researcher
 - 💬 Ask me anything about Data Visualisation & Power BI: **abdulhamidmah2000@gmail.com**
 - 🎨 Discover my artistic side on **[Dribbble](https://dribbble.com/AHMahi)** & **[Behance](https://www.behance.net/abdulhamidmahi1)**
 
@@ -49,7 +50,7 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
-### 🏗️ Data Platforms & ETL
+### 🏗️ Data Warehouse & ETL
 <p align="center">
   <img alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img alt="SSIS" src="https://img.shields.io/badge/SSIS-%23CC2927.svg?style=for-the-badge&logo=microsoft&logoColor=white">
