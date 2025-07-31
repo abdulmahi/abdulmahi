@@ -119,8 +119,11 @@
 
 <br>
 
+<!--profile visit count-->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AHMahi&label=Profile%20Views&color=0&icon=1&pretty=true" alt="Profile Views">
+  
+[![](https://visitcount.itsvg.in/api?id=AHMahi&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
 
 <div align="center">
