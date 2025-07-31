@@ -35,7 +35,7 @@
 
 ## Tech Stack 👨🏻‍💻
 
-### 📊 Data Analytics & Databases
+### 📊 Analytics Scripting Tools
 <p align="center">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
