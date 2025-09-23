@@ -116,7 +116,7 @@
 - **MS Power BI Analyst (PL-300)**
 - **Google Advanced Data Analytics**
 - **Google BI Engineer**
-- **AWS Cloud Foundations**
+- **AWS Certified Cloud Practioner**
 
 <br>
 
