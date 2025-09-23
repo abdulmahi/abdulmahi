@@ -25,7 +25,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
@@ -33,7 +33,7 @@
 
 <br>
 
-## Tech Stack 👨🏻‍💻
+## Tech Stack
 
 ### 📊 Analytics Scripting Tools
 <p align="center">
