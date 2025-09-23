@@ -21,7 +21,7 @@
 - 💼 Currently working as a Business Intelligence Developer at Clevertronics 
 - 💬 Ask me anything about Data Visualisation & Power BI: **abdulhamidmah2000@gmail.com**
 - 🎨 Discover my artistic side on **[Dribbble](https://dribbble.com/AHMahi)** & **[Behance](https://www.behance.net/abdulhamidmahi1)**
-- 🧑‍💻 Freelancing as a UI designer & UX researcher
+- 🧑‍💻 Freelancing as a Data Analyst & UX researcher
 
 <br>
 
