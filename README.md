@@ -16,7 +16,7 @@
 
 ## About Me
 
-- 🗂️ Check out my portfolio: **https://abdulmahi.github.io/**
+- 🗂️ Check out my portfolio website: **https://abdulmahi.github.io/**
 - 🎓 Bachelor's from **Swinburne University of Technology** in Computer Science
 - 💼 Currently working as a Business Intelligence Developer at Clevertronics 
 - 💬 Ask me anything about Data Visualisation & Power BI: **abdulhamidmah2000@gmail.com**
