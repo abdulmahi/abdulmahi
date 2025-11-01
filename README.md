@@ -25,14 +25,6 @@
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-<br>
-
 ## Tech Stack
 
 ### 📊 Analytics Scripting Tools
@@ -66,7 +58,7 @@
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img alt="GCP" src="https://img.shields.io/badge/Microsoft%20GCP-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img alt="GCP" src="https://img.shields.io/badge/%20GCP-0089D0?style=for-the-badge&logo=GCP&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 </p>
 
@@ -83,7 +75,6 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF">
@@ -93,7 +84,7 @@
 - **MS Power BI Analyst (PL-300)**
 - **Google Advanced Data Analytics**
 - **Google BI Engineer**
-- **AWS Certified Cloud Practioner**
+- **AWS Certified Cloud Practitioner**
 
 <br>
 
